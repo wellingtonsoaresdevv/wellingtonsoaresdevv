@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Lincoln 👋</h1>
+<h1 align="center">Wellington Soares 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Lover+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Automations+%26+APIs+Expert+%F0%9F%9A%80;AI+%7C+Python+%7C+FastAPI+%7C+N8N+%7C+Langchain" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-🚀 Sou um solucionador de problemas movido a café, código limpo e automações inteligentes.  
+🚀 Sou um solucionador de problemas, código limpo e automações inteligentes.  
 🛠️ Trabalho com APIs, IA, automações e infra.  
 🎯 Foco total em escalar negócios com tecnologia e inteligência.
 
@@ -43,17 +43,13 @@
 
 | Projeto | Descrição | Link |
 |--------|------------|------|
-| 🧼 **Bling Beyond Cleaning** | Automação de orçamentos de limpeza com IA | [choosebling.com](https://choosebling.com) |
-| 🌍 **API de CEP** | API pública para calcular distância entre CEPs | [Ver repositório](https://github.com/wellingtonsoaresdevv/api-cep) |
-| 🤖 **IA Atendimento Técnico** | Agente AI com Langchain e FastAPI | [Ver repositório](https://github.com/wellingtonsoaresdevv/ia-atendimento) |
+| 🌍 **API de CEP** | API pública para calcular distância entre CEPs | [Ver repositório](https://github.com/wellingtonsoaresdevv/calculadora_cep) |
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)
-- 🌍 [Portfólio](https://SEU-SITE.com)
-- 📬 brunolincoln@email.com
+- 📬 wellington@projetoarea51.com.br
 
 ---
 
