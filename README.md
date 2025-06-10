@@ -9,7 +9,7 @@
 ## 🧠 Sobre mim
 
 🚀 Sou um solucionador de problemas, código limpo e automações inteligentes.  
-🛠️ Trabalho com APIs, IA, automações e infra.  
+🛠️ Trabalho com APIs, IA, e Automações.  
 🎯 Foco total em escalar negócios com tecnologia e inteligência.
 
 ---
