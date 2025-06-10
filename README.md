@@ -60,3 +60,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wellingtonsoaresdevv&style=flat-square&color=blue" alt="profile views" />
 </p>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/93d6ce54-2e2f-493f-972b-01b78551fc4f.svg" alt="profile views" />
+</p>
