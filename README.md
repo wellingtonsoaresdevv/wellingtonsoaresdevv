@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellingtonsoaresdevv&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsoaresdevv&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wellingtonsoaresdevv&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtonsoaresdevv&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -75,5 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wellingtonsoaresdevv&style=flat-square&color=blue" alt="Profile views" />
 </p>
