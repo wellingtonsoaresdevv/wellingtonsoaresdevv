@@ -12,6 +12,9 @@
 🛠️ Trabalho com APIs, IA, e Automações.  
 🎯 Foco total em escalar negócios com tecnologia e inteligência.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ## 🛠️ Tech Stack
