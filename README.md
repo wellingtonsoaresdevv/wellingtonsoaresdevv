@@ -58,7 +58,7 @@
 
 ---
 
-![WakaTime Stats](https://wakatime.com/share/@Wellsoares/431295e0-100e-4b33-9455-bd25a493a33f.svg)
+![WakaTime Stats](https://wakatime.com/share/@Wellsoares/bcd63ebd-fe86-4789-9d23-0fce8c7ef40f.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
