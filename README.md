@@ -14,13 +14,7 @@
 
 ---
 
-### 📊 WakaTime Stats
-
-<!-- WakaTime All-Time Languages Chart -->
-![Languages over all time](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&layout=compact&langs_count=20&custom_title=Languages%20over%20All%20Time)
-
-<!-- WakaTime This Week Chart -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&range=last_7_days)
+[![wakatime](https://wakatime.com/badge/user/93d6ce54-2e2f-493f-972b-01b78551fc4f.svg)](https://wakatime.com/@93d6ce54-2e2f-493f-972b-01b78551fc4f)
 
 
 ## 🛠️ Tech Stack
