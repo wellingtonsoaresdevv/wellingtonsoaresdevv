@@ -2,7 +2,7 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # atualiza todo dia à meia-noite
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false             # remove o título
-          SHOW_TIME: true               # mantém tempo por linguagem
-          SHOW_TOTAL: false             # remove tempo total
+          SHOW_TITLE: false
+          SHOW_TIME: true
+          SHOW_TOTAL: false
           TIME_RANGE: all_time
-          LANG_COUNT: 6                 # mostra só as 6 linguagens mais usadas
-          BLOCKS: ░▒▓█                  # blocos visuais
-          STOP_AT_OTHER: true          # para no "Other", não mostra além
+          LANG_COUNT: 6
+          BLOCKS: ░▒▓█
+          STOP_AT_OTHER: false      # ← ESSA LINHA É A CHAVE
