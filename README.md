@@ -14,9 +14,6 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/93d6ce54-2e2f-493f-972b-01b78551fc4f.svg)](https://wakatime.com/@93d6ce54-2e2f-493f-972b-01b78551fc4f)
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
