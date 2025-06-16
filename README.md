@@ -31,9 +31,6 @@
 
   <!-- VSCode -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VSCode" />
-  
-  <!-- Cursor (Editor AI) -->
-  <img src="https://avatars.githubusercontent.com/u/125138103?s=200&v=4" width="45" alt="Cursor" />
 </p>
 
 ---
