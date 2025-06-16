@@ -2,7 +2,7 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # atualiza todo dia à meia-noite UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
-          LANG_COUNT: 5
+          LANG_COUNT: 10
           SHOW_TOTAL: true
           SHOW_TIME: true
+          STOP_AT_OTHER: false
