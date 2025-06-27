@@ -52,7 +52,7 @@ Bash        6 mins          ▒░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wellingtonsoaresdevv&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsoaresdevv&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsoaresdevv&layout=compact&theme=radical&cache_seconds=3600" />
 </p>
 
 ---
