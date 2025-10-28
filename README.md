@@ -68,12 +68,6 @@ SQL            1 hr 43 mins    ▒░░░░░░░░░░░░░░░�
 
 ---
 
-## 📫 Contato
-
-- 📬 wellington@projetoarea51.com.br
-
----
-
 ![WakaTime Stats](https://wakatime.com/share/@Wellsoares/70c1a742-0802-4eef-aae1-54159684c9a6.svg)
 
 <p align="center">
