@@ -1,4 +1,4 @@
-<h1 align="center">Wellington Soares... 👋</h1>
+<h1 align="center">Wellington Soares👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Automations+%26+APIs+Expert+%F0%9F%9A%80;AI+%7C+Python+%7C+FastAPI+%7C+N8N+%7C+Langchain" alt="Typing SVG" />
