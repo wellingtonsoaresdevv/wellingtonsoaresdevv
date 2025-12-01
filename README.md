@@ -79,4 +79,9 @@ SQL            2 hrs 1 min     ▒░░░░░░░░░░░░░░░�
 </p>
 
 
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=wellingtonsoaresdevv&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
