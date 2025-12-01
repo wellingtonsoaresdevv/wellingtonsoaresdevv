@@ -65,7 +65,7 @@ SQL            2 hrs 1 min     ▒░░░░░░░░░░░░░░░�
 | Projeto | Descrição | Link |
 |--------|------------|------|
 | 🌍 **API de CEP** | API pública para calcular distância entre CEPs | [Ver repositório](https://github.com/wellingtonsoaresdevv/calculadora_cep) |
-| 🌍 **DevLabFree** | 💻 Recursos gratuitos para aprender a programar de graça | [Ver repositório](https://github.com/wellingtonsoaresdevv/DevLabFree) |
+| 💻 **DevLabFree** | Recursos gratuitos para aprender a programar de graça | [Ver repositório](https://github.com/wellingtonsoaresdevv/DevLabFree) |
 
 ---
 
