@@ -77,3 +77,6 @@ SQL            2 hrs 1 min     ▒░░░░░░░░░░░░░░░�
 <p align="center">
   <img src="https://wakatime.com/badge/user/93d6ce54-2e2f-493f-972b-01b78551fc4f.svg" alt="profile views" />
 </p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=wellingtonsoaresdevv&label=Profile%20Views&color=0e75b6&style=flat)
