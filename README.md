@@ -69,12 +69,10 @@ JSON           2 hrs 58 mins         ▓░░░░░░░░░░░░░�
 
 ---
 
-## 🧠 Cybersecurity Journey
+## 🧠 Cybersecurity Journey <img src="https://tryhackme.com/img/favicon.png" width="50"/>
 
 - TryHackMe Profile: https://tryhackme.com/p/wellz
 - Rooms completed: *3*
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/wellz.png)
 
 ---
 
