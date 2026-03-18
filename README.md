@@ -73,7 +73,7 @@ JSON           2 hrs 58 mins         ▓░░░░░░░░░░░░░�
 
 - TryHackMe Profile: https://tryhackme.com/p/wellz
 - Rooms completed: *3*
-- Badges - *1*
+- Badges: *1*
 
 ---
 
