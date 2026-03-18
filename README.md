@@ -69,6 +69,15 @@ JSON           2 hrs 58 mins         ▓░░░░░░░░░░░░░�
 
 ---
 
+## 🧠 Cybersecurity Journey
+
+- TryHackMe Profile: [https://tryhackme.com/p/SEU_USUARIO](https://tryhackme.com/p/wellz)
+- Rooms completed: [3]
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/wellz.png)
+
+---
+
 ![WakaTime Stats](https://wakatime.com/share/@Wellsoares/70c1a742-0802-4eef-aae1-54159684c9a6.svg)
 
 <p align="center">
