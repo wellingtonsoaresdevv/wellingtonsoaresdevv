@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                           101 hrs 32 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
-Python                             74 hrs 36 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Other                              53 hrs 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-HTML                               48 hrs 35 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-TypeScript                         46 hrs 11 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-JavaScript                         40 hrs 16 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Markdown                           105 hrs 4 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Python                             77 hrs 23 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+Other                              55 hrs 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+TypeScript                         49 hrs 4 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+HTML                               48 hrs 35 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+JavaScript                         40 hrs 16 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
